@@ -2,6 +2,8 @@
 
 ## Global International Migrant Workers: Historical & Projected Trends
 
+![Global International Migrant Workers: Historical & Projections (2013–2050)](assets/migrant_workers_plot.png)
+
 | Year | Estimated Migrant Workers | % of Global Labor Force | Primary Conceptual Change / Catalyst |
 |---|---|---|---|
 | 2013 (Hist.) | 150.4 Million | 4.4% | Baseline modern reporting year; early expansion of interconnected manufacturing lines. |

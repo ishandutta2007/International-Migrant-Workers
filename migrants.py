@@ -51,7 +51,11 @@ plt.axvspan(2030, 2050, color='gray', alpha=0.07, label='Accelerated Necessity-D
 
 # Rebuild the legend handling manually to keep it perfectly clean
 plt.legend(loc='upper left', fontsize=11)
-plt.tight_layout()
+import os
+os.makedirs('assets', exist_ok=True)
+output_path = os.path.join('assets', 'migrant_workers_plot.png')
+plt.savefig(output_path, dpi=300, bbox_inches='tight')
+print(f"Plot saved successfully to {output_path}")
 
 # Display the chart
 plt.show()
