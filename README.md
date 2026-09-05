@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="International Migrant Workers Banner" width="100%">
+</p>
+
 # International-Migrant-Workers
+
 
 ## Global International Migrant Workers: Historical & Projected Trends
 
